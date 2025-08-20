@@ -213,7 +213,11 @@ exclude:
   - README.md
   - LICENSE
   - purgecss.js
+<<<<<<< HEAD
   - rollup.config.js
+=======
+  - "*.config.js"
+>>>>>>> v7.3.1
   - "package*.json"
 
 jekyll-archives:
